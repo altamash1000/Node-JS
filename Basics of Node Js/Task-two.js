@@ -10,3 +10,5 @@ if (args.length === 0) {
         console.log(`Argument ${index + 1}: ${arg}`);
     });
 }
+
+// paste in terminal: node .\Task-two.js arg1 arg2 arg3
