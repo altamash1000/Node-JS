@@ -1,0 +1,12 @@
+## Topic 1: Basics of Node.js
+**Tasks:**
+1. Print "Hello, World!" to the console.
+2. Use the `process` object to access command-line arguments.
+3. Explore the Node.js REPL (Read-Eval-Print Loop).
+4. Use the built-in `os` module to get information about the operating system.
+5. Write a program to calculate the factorial of a number using recursion.
+6. Implement a program that generates a random number between a given range.
+7. Create a simple function to check if a number is prime.
+8. Build a program that converts temperatures between Fahrenheit and Celsius.
+9. Use the `setTimeout` function to schedule a task after a specified time.
+10. Create a program that reads and writes data to a text file.
