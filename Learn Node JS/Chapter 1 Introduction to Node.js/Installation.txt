@@ -1,0 +1,30 @@
+Task:  Install Node.js and verify the installation.
+
+I can guide you through the process of installing Node.js and verifying the installation using the command line. 
+Here's how you can install Node.js and verify the installation:
+
+1. Download Node.js:
+   Visit the official Node.js website at https://nodejs.org/. 
+   On the homepage, you'll find the latest LTS (Long Term Support) version and the current version available for download. 
+   Choose the LTS version for stability, or the current version for the latest features. 
+   Click on the appropriate download link based on your operating system (Windows, macOS, or Linux).
+
+2. Install Node.js:
+   Follow the installation instructions for your operating system. 
+   Generally, for Windows and macOS, you'll download an installer and run it. 
+   For Linux, you might use a package manager like `apt` or `yum` (on Ubuntu/Debian or CentOS/RHEL) or install it from the official NodeSource repository.
+
+3. Verify Installation:
+   After the installation is complete, you can verify it by opening a command prompt (Windows) or terminal (macOS/Linux) and typing the following commands:
+
+   
+   node -v
+   npm -v
+   
+
+   - The `node -v` command will display the installed Node.js version.
+   - The `npm -v` command will display the version of npm (Node Package Manager) that comes bundled with Node.js.
+
+   If both commands show version numbers without any errors, then Node.js is successfully installed on your system.
+
+   That's it! You've successfully installed Node.js and verified the installation.
