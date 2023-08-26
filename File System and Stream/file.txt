@@ -1,2 +1,0 @@
-Hello, this is the content to be written to the file.
-This content will be appended.
