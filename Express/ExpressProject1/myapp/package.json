@@ -1,0 +1,14 @@
+{
+  "name": "formtopostuserdata",
+  "version": "1.0.0",
+  "description": "This script of package is used to get user data at backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Altamash Asif Ghori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
